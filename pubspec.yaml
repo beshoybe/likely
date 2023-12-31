@@ -1,0 +1,33 @@
+name: grad
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^10.1.0
+  flutter_riverpod: ^2.4.9
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  mapbox_maps_flutter: ^0.5.1
+  simple_barcode_scanner: ^0.0.8
+  firebase_database: ^10.3.8
+  cloud_firestore: ^4.13.6
+  intl: ^0.19.0
+  firebase_storage: ^11.5.6
+  image_picker: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  change_app_package_name:
+
+flutter:
+  assets:
+    - assets/
+  uses-material-design: true

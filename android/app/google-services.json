@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "369726482784",
+    "firebase_url": "https://grad-app-96513-default-rtdb.firebaseio.com",
+    "project_id": "grad-app-96513",
+    "storage_bucket": "grad-app-96513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369726482784:android:b86c71b10a9369951a1605",
+        "android_client_info": {
+          "package_name": "com.bikely.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6U3rJSJm3jj41erowYYTStBIlzxrZVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369726482784:android:aa1f16d48ebf85bd1a1605",
+        "android_client_info": {
+          "package_name": "com.mycompany.grad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6U3rJSJm3jj41erowYYTStBIlzxrZVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369726482784:android:7124c854789da9961a1605",
+        "android_client_info": {
+          "package_name": "com.mycompany.ibrahimtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6U3rJSJm3jj41erowYYTStBIlzxrZVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
