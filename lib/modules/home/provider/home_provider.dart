@@ -147,6 +147,9 @@ class HomeProvider extends StateNotifier<HomeStates> {
     await fireStore.collection('users').doc(newModel.userId).update({
       'balance': FieldValue.increment(-newModel.price!),
     });
+    await FirebaseDatabase.instance.ref('/${newModel.bikeId}').update({
+      'LOCKED': false,
+    });
 
     state = TripEndedState(newModel);
   }
